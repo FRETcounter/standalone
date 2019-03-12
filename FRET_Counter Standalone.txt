@@ -1,0 +1,6 @@
+We have a standalone version of FRET_Counter software that can run without MATLAB.
+However, because of size limitaion in this github website we couldn't upload it here.
+
+If you are interested to have this standalone version please contact us directly at this email
+
+mustafa@riken.jp
