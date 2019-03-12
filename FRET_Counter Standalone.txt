@@ -3,4 +3,6 @@ However, because of size limitation in this github website we couldn't upload it
 
 If you are interested to have a copy of this standalone version, please contact us directly at this email
 
-mustafa@riken.jp
+To: mustafa@riken.jp
+Subject: FRET Counter Standalone
+
